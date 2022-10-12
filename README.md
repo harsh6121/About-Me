@@ -1,7 +1,7 @@
 # About-Me
 Just about me
 <h1 align="center">Hi 👋, I'm Harsh Patel</h1>
-<h3 align="center">A passionate about learning Coding and Front & Back end development.</h3>
+<h3 align="center">A passionate about learning DSA and Coding. want to learn Front & Back end development.</h3>
 
 - 🔭 I’m currently studying at **Dhirubhai Ambani Institute of Information and Communication Technology**
 
